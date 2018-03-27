@@ -1,0 +1,27 @@
+{
+  "name": "ghazwa",
+  "version": "1.0.0",
+  "description": "\"chat system for 206CDE\"",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.7.1",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-change/206Chat_System.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Ghazwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-change/206Chat_System/issues"
+  },
+  "homepage": "https://github.com/the-change/206Chat_System#readme"
+}
